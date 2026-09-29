@@ -1,10 +1,7 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
-<h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" />
-</a>
+
 <a href="https://www.hackerrank.com/MuskanRani" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
 </a> 
@@ -15,13 +12,6 @@
 <a href="https://leetcode.com/Muskan_Rani/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--blue" />
 </a>
-
-<br/> 
-
-<h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
